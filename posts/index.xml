@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on ZhaoWei&#39;s Blog</title>
-    <link>http://zhaowei.me/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on ZhaoWei&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CNS</language>
     <lastBuildDate>Fri, 07 Feb 2020 13:12:23 +0800</lastBuildDate>
     
-	<atom:link href="http://zhaowei.me/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Nginx够用初探</title>
-      <link>http://zhaowei.me/posts/basic-use-of-nginx/</link>
+      <link>/posts/basic-use-of-nginx/</link>
       <pubDate>Fri, 07 Feb 2020 13:12:23 +0800</pubDate>
       
-      <guid>http://zhaowei.me/posts/basic-use-of-nginx/</guid>
+      <guid>/posts/basic-use-of-nginx/</guid>
       <description>Nginx是一款高性能的Web服务器，在Web基础设施里有广泛的运用，配置灵活，功能强大。PHP站点一般使用Nginx + FastCGI + PHP-FPM 的方式提供服务。
 我已经在大大小小的项目中运用很多次了，但因为配置好后改动频率低，也并无深究。也在此表明态度，简单记录一下够用的初探。
 基本配置 # 全局块 user nginx; worker_processes 1; error_log /var/log/nginx/error.log warn; pid /var/run/nginx.pid; # events块 events { worker_connections 1024; } # http块 http { include /etc/nginx/mime.types; default_type application/octet-stream; access_log /var/log/nginx/access.log main; sendfile on; keepalive_timeout 65; include /etc/nginx/conf.d/*.conf; } conf.d中是虚拟主机配置，一般我们需要重点配置这里。
@@ -25,10 +25,10 @@
     
     <item>
       <title>1024</title>
-      <link>http://zhaowei.me/posts/1024/</link>
+      <link>/posts/1024/</link>
       <pubDate>Tue, 24 Oct 2017 19:19:34 +0800</pubDate>
       
-      <guid>http://zhaowei.me/posts/1024/</guid>
+      <guid>/posts/1024/</guid>
       <description>看完了这本书，你决定继续做编程。也许它能成为你的一个职业，也许它能成为你的一项爱好。但你需要一些指导，确保自己不会走错了道路，或帮助你从这个新业余爱好中得到最大的乐趣。
 我做了很久的编程。久的你都想象不出来，久的都让我苦恼。就在我写这本书的时候，我大概懂20种编程语言，而且我可以用一天或长点儿用一周的时间学会一种新语言——要依这种语言有多奇怪而定。但这最终成为了我的苦恼，它们已经不能再吸引我的兴趣。我并不是说这些语言没有意思，或告诉你你会觉得它们很枯燥。只是想说在我的职业旅程走到现在，我已不再对语言有兴趣。
 经过这么多年的学习经历，我发现语言本身并不重要，重要的是你如何用它们。事实上，我一直知道这个道理，但我总是被语言吸引走，周期性的忘记这个道理。现在我不再忘记了，你也应该这样。
@@ -45,10 +45,10 @@
     
     <item>
       <title>Hello World</title>
-      <link>http://zhaowei.me/posts/hello-world/</link>
+      <link>/posts/hello-world/</link>
       <pubDate>Fri, 19 May 2017 17:54:56 +0800</pubDate>
       
-      <guid>http://zhaowei.me/posts/hello-world/</guid>
+      <guid>/posts/hello-world/</guid>
       <description>并非纯粹技术博客，我愿用它记录更多。</description>
     </item>
     

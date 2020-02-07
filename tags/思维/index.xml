@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>思维 on ZhaoWei&#39;s Blog</title>
-    <link>http://zhaowei.me/tags/%E6%80%9D%E7%BB%B4/</link>
+    <link>/tags/%E6%80%9D%E7%BB%B4/</link>
     <description>Recent content in 思维 on ZhaoWei&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CNS</language>
     <lastBuildDate>Tue, 24 Oct 2017 19:19:34 +0800</lastBuildDate>
     
-	<atom:link href="http://zhaowei.me/tags/%E6%80%9D%E7%BB%B4/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/%E6%80%9D%E7%BB%B4/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>1024</title>
-      <link>http://zhaowei.me/posts/1024/</link>
+      <link>/posts/1024/</link>
       <pubDate>Tue, 24 Oct 2017 19:19:34 +0800</pubDate>
       
-      <guid>http://zhaowei.me/posts/1024/</guid>
+      <guid>/posts/1024/</guid>
       <description>看完了这本书，你决定继续做编程。也许它能成为你的一个职业，也许它能成为你的一项爱好。但你需要一些指导，确保自己不会走错了道路，或帮助你从这个新业余爱好中得到最大的乐趣。
 我做了很久的编程。久的你都想象不出来，久的都让我苦恼。就在我写这本书的时候，我大概懂20种编程语言，而且我可以用一天或长点儿用一周的时间学会一种新语言——要依这种语言有多奇怪而定。但这最终成为了我的苦恼，它们已经不能再吸引我的兴趣。我并不是说这些语言没有意思，或告诉你你会觉得它们很枯燥。只是想说在我的职业旅程走到现在，我已不再对语言有兴趣。
 经过这么多年的学习经历，我发现语言本身并不重要，重要的是你如何用它们。事实上，我一直知道这个道理，但我总是被语言吸引走，周期性的忘记这个道理。现在我不再忘记了，你也应该这样。
