@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on ZhaoWei&#39;s Blog</title>
+    <link>http://zhaowei.me/tags/</link>
+    <description>Recent content in Tags on ZhaoWei&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CNS</language>
+    <lastBuildDate>Tue, 24 Oct 2017 19:19:34 +0800</lastBuildDate>
+    
+	<atom:link href="http://zhaowei.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>思维</title>
+      <link>http://zhaowei.me/tags/%E6%80%9D%E7%BB%B4/</link>
+      <pubDate>Tue, 24 Oct 2017 19:19:34 +0800</pubDate>
+      
+      <guid>http://zhaowei.me/tags/%E6%80%9D%E7%BB%B4/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
